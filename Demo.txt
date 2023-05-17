@@ -1,0 +1,10 @@
+1. git add origin the paste the link from github user
+2. git cinfig --global user.username the name of the user
+3. git commit -m"comment"
+4. git init to check if you are in your repository.
+5. git remote add origin https://github.com/UEenvironoment/test_repository.git  //example of point one
+6. git push origin master or the name of your project.
+
+7. you are Welcome to our test_repository.
+// you are welcome bro
+
