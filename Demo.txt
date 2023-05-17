@@ -1,2 +1,5 @@
-
+1. 
+2. 
+3. 
+4. git init to check if you are in your repository.
 
